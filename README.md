@@ -1,7 +1,7 @@
 # Tugas 04-GIt-and-Github
 
-## 01-the-basics
-Link Repository: github.com/anggitrisi/git-basics
+## 01-the-basic
+Link Repository: github.com/anggitrisi/git-basic
 
 ## 02-portfolio-and-cv
 Link Repository: github.com/anggitrisi/anggitri-sihombing
